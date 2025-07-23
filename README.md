@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdhithiManjunath ,I am a final year Computer Science and Engineering student at Ramaiah Institute of Technology, Bangalore
 - 👀 I’m interested in UI/UX and Web dev 
-- 🌱 I’m currently learning Web dev 
+
 
  
 
